@@ -2,3 +2,5 @@ cardamom
 lavang
 curry leaves
 coriander
+pepper
+saffron
